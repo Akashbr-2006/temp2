@@ -1,5 +1,5 @@
 // Target: Tomorrow (September 1, 2026) at 12:12 PM IST
-const targetDate = new Date('2026-09-01T12:12:00').getTime();
+const targetDate = new Date('2026-09-10T12:12:00').getTime();
 
 function updateCountdown() {
   const now = new Date().getTime();
